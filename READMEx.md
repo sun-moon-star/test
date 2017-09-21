@@ -1,1 +1,1 @@
-SKILL: Git with SourceTree 2
+SKILL: Git with SourceTree 3.
